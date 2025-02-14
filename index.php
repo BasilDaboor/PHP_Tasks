@@ -28,6 +28,7 @@
 </head>
 
 <body>
+    <a href="file2.php">file 2</a>
     <h1>Array :</h1>
     <h2>Part 1 :</h2>
     <h3>fruits:</h3>
